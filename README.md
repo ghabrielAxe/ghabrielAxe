@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!;Seja+bem-vindo!)](https://git.io/typing-svg)
 
-• Área de atuação: Back-end <br>
+<h3>• Área de atuação: Back-end <h3> <br>
 
 <div align="center">
   <a href="https://github.com/ghabrielAxe">
