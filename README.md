@@ -6,7 +6,7 @@
   <a href="https://github.com/ghabrielAxe">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,cs" />
+    <img src="https://skillicons.dev/icons?i=git,cs,net,postman" />
   </a>
 </p>
 </div>
