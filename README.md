@@ -12,12 +12,12 @@
 </div>
 <div style="display: inline_block"><br>
 </div>
-  ##
+
 <div> 
-  <a href="https://www.linkedin.com/in/ghabriel-rodrigues-525b94231/" target="_blank">
+  <a href="https://www.linkedin.com/in/ghabriel-rodrigues-525b94231/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contato.ghabrielmachado@gmail.com" target="_blank">
+  </a> 
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contato.ghabrielmachado@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
 </div>
